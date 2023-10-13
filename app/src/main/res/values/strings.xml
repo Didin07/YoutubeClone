@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YouTube</string>
+    <string name="navigation_drawer_Open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_Close">Close Navigation Drawer</string>
+</resources>
